@@ -1,2 +1,2 @@
 # smashers
-A Website for Smashers Badminton Club
+A Website for Badminton Club
